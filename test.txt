@@ -1,0 +1,4 @@
+@@||happypancake.se/static/show_ads.js
+@@||googletagmanager.com/gtm.js$domain=happypancake.se
+@@||happypancake.se/static/prebid.*.js$script
+happypancake.se##+js(set, canRunAds, true)
